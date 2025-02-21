@@ -40,10 +40,10 @@ Make sure you have:
 - A working **IDE** (VS Code / Android Studio)
 
 ### **2️⃣ Clone the Repository**
-git clone https://github.com/yourusername/cubitposts.git
-cd cubitposts
+- git clone https://github.com/yourusername/cubitposts.git
+- cd cubitposts
 
 ### **3️⃣ Install Dependencies And Run App**
-flutter pub get
-flutter run
+- flutter pub get
+- flutter run
 
